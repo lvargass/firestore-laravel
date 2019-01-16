@@ -1,5 +1,5 @@
 {
-    "name": "@morrislaptop/firestore-php",
+    "name": "@lvargass/firestore-laravel",
     "private": true,
     "release": {
         "verifyConditions": [
